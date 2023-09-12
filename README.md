@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishhjadhav
-- 👀 I’m interested in database
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
